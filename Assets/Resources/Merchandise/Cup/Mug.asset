@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f0b9391034860746a0d2a4869982b13, type: 3}
+  m_Name: Mug
+  m_EditorClassIdentifier: 
+  chineseName: "\u99AC\u514B\u676F"
+  indexName: mug
+  descript: 
+  skillName: 
+  skillDescript: 
+  cost: 5
+  costType: 1
+  type: 1
+  SelectViewSprite: {fileID: 21300000, guid: d9f18269a03f2c1478461814947ea39f, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5805f49f72346e24f9a30f36582d1fac, type: 3}
+  m_Name: fish
+  m_EditorClassIdentifier: 
+  SkillIcon: {fileID: 21300000, guid: 6b6e2dd108423bb43b444d31a19ea123, type: 3}
+  ObjToCreate:
+  - {fileID: 1744846689677720, guid: 3c92089335a49b24ab36a097a1eb4379, type: 2}
+  time: 6
+  isPlayAnim: 1

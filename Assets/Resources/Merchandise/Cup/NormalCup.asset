@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f0b9391034860746a0d2a4869982b13, type: 3}
+  m_Name: NormalCup
+  m_EditorClassIdentifier: 
+  chineseName: "\u9AA8\u74F7\u676F"
+  indexName: normalcup
+  descript: 
+  skillName: 
+  skillDescript: 
+  cost: 0
+  costType: 1
+  type: 1
+  SelectViewSprite: {fileID: 21300000, guid: f304ebc47175edf46bb8711856a17009, type: 3}

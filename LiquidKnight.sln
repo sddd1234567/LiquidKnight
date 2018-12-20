@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidKnight", "LiquidKnight.csproj", "{C6C9528A-1C18-295D-3798-B7E81EC99DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidKnight.Plugins", "LiquidKnight.Plugins.csproj", "{621E5C2A-4F13-4626-3D3D-33138051FAF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidKnight.Editor", "LiquidKnight.Editor.csproj", "{1AE68D60-D959-8553-3828-2D08069272C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiquidKnight.Editor.Plugins", "LiquidKnight.Editor.Plugins.csproj", "{D6E2FDB6-85BD-00B8-9FAB-546FE35FF2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C9528A-1C18-295D-3798-B7E81EC99DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C9528A-1C18-295D-3798-B7E81EC99DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C9528A-1C18-295D-3798-B7E81EC99DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C9528A-1C18-295D-3798-B7E81EC99DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621E5C2A-4F13-4626-3D3D-33138051FAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621E5C2A-4F13-4626-3D3D-33138051FAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621E5C2A-4F13-4626-3D3D-33138051FAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621E5C2A-4F13-4626-3D3D-33138051FAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE68D60-D959-8553-3828-2D08069272C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE68D60-D959-8553-3828-2D08069272C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE68D60-D959-8553-3828-2D08069272C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE68D60-D959-8553-3828-2D08069272C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E2FDB6-85BD-00B8-9FAB-546FE35FF2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E2FDB6-85BD-00B8-9FAB-546FE35FF2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E2FDB6-85BD-00B8-9FAB-546FE35FF2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E2FDB6-85BD-00B8-9FAB-546FE35FF2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
